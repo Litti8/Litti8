@@ -1,7 +1,7 @@
 <h1 align="center">Hello !! 🫡, I'm Lisandro Piatti</h1>
 <h3 align="center">Software Developer from planet earth</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lichatti&label=Profile%20views&color=0e75b6&style=flat" alt="lichatti" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=lichatti&label=Profile%20views&color=0e75b6&style=flat" alt="lichatti" /> </p>
 
 - 🔭 I’m currently working on [my proyects](https://github.com/Lichatti)
 
