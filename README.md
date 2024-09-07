@@ -3,8 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lichatti&label=Profile%20views&color=0e75b6&style=flat" alt="lichatti" /> </p>
 
-
 - 🔭 I’m currently working on [my proyects](https://github.com/Lichatti)
+
+- 🌱 I’m currently learning **Frameworks and courses**
+
+- 💬 Ask me about **JavaScript, Python, HTML5, CSS3, React, NodeJS**
 
 - 📫 How to reach me **lisandropiatti@gmail.com**
 
@@ -21,5 +24,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lichatti&show_icons=true&locale=en&layout=compact" alt="lichatti" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lichatti&show_icons=true&locale=en" alt="lichatti" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lichatti&" alt="lichatti" /></p>
