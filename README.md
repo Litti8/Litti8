@@ -19,7 +19,7 @@
 </p>
 <br>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">🛠️ Languages and Tools:</h3>
 <h2 align="center">Frontend:</h2>
 <p align="center">
   <a href="https://skillicons.dev">
@@ -40,9 +40,10 @@
 </p>
 <br>
 
------
 
 <div align="center">
+
+<h2 align="left">🔥 Streak Stats</h2>  
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Lichatti&theme=whatsapp-dark2&border_radius=5.1&date_format=%5BY%20%5DM%20j&mode=weekly)](https://git.io/streak-stats)
 
