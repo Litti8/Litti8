@@ -35,7 +35,7 @@
 <h2 align="center">Tools and Databases:</h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,jest,postman,figma,notion,mysql,postgres" />
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,jest,postman,figma,notion,mongodb,postgres" />
   </a>
 </p>
 <br>
