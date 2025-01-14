@@ -45,7 +45,7 @@
 
 <h2 align="left">🔥 Streak Stats</h2>  
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Litti8&theme=whatsapp-dark2&border_radius=5.1&date_format=%5BY%20%5DM%20j&mode=weekly)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Litti8&theme=dark&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
 
   
 </div>
