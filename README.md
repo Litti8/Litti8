@@ -6,9 +6,9 @@
 
 - 🔭 I’m currently working on [My proyects](https://github.com/Lichatti) and Certifications.
 
-- 🌱 I’m currently learning **Certifications, Frameworks and Courses**
+- 🌱 I’m currently learning **Cloud Certifications and Frameworks**
 
-- 💬 Ask me about **Java, Python, Typescript, HTML5, CSS3, React, NodeJS**
+- 💬 Ask me about **Java, Python, Typescript, NodeJS and Databases**
 
 - 📫 How to reach me **lisandropiatti@gmail.com**
 
@@ -24,7 +24,7 @@
 <h2 align="center">Frontend:</h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,ts,react,nextjs" />
+    <img src="https://skillicons.dev/icons?i=html,css,ts,js,react,angular,bootstrap,tailwind" />
   </a>
 </p>
 <h2 align="center">Backend:</h2>
